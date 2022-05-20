@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^12.2.4",
     "@angular/platform-browser-dynamic": "^12.2.4",
     "@angular/router": "^12.2.4",
-    "blockly": "https://github.com/PtrBld/blockly.git#rotation",
+    "blockly": "https://github.com/PtrBld/blockly.git#1ef337fa3a337adfb965aaeff2c1260f98fe8a3f",
     "core-js": "^2.6.5",
     "rxjs": "~6.6.3",
     "tslib": "^2.3.1",
